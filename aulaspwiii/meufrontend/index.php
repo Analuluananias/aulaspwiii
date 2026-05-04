@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Meu HTML</h1>
+    <h1>Meu HTML AMOO</h1>
     <?php 
         $nome="Claude Shanon";
         echo "<h2>Olá $nome !!!</h2>" 
